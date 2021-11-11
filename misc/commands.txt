@@ -1,0 +1,7 @@
+SDKman (https://sdkman.io/install)
+- sudo apt-get install zip
+- sudo apt-get install unzip
+- curl -s "https://get.sdkman.io" | bash
+- source "$HOME/.sdkman/bin/sdkman-init.sh"
+- sdk version
+- sdk help
