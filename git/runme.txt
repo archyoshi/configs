@@ -1,0 +1,1 @@
+curl https://raw.githubusercontent.com/archyoshi/configs/master/git/aliases.txt >> /c/Users/REPLACEME/.bashrc
